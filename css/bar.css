@@ -1,0 +1,23 @@
+body {
+    margin: 0;
+}
+  
+.top-bar {
+    overflow: hidden;
+    background-color: #333;
+}
+  
+.top-bar a {
+    float: right;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+  
+.top-bar a:hover {
+    background-color: #1ca35f;
+    color: #fff;
+}
+  
